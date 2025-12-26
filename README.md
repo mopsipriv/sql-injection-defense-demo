@@ -106,7 +106,7 @@ Run the application:
 
 python main.py
 
-##🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 Through this project, I gained hands-on experience in:
 
 - Identifying and reproducing SQL Injection vulnerabilities
